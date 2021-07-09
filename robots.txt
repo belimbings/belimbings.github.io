@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://belimbings.com/sitemap.xml
